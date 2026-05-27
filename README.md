@@ -16,4 +16,4 @@ Sou um desenvolvedor focado em **Desenvolvimento Backend** e **Automação de Pr
 
 📬 **Como me encontrar:**
 *   [LinkedIn](https://www.linkedin.com/in/antônio-paulo-19b5b4364/)
-  
+*   [E-mail](https://mail.google.com/mail/u/4/#inbox)
