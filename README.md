@@ -1,10 +1,9 @@
 # Olá, eu sou o Antônio Paulo! 👋
 
-Sou um desenvolvedor focado em **Desenvolvimento Backend** e **Automação de Processos com IA**. Meu objetivo é construir soluções eficientes, escaláveis e automatizar fluxos de trabalho para otimizar resultados.
+Sou um desenvolvedor focado em **Desenvolvimento Backend**. Meu objetivo é construir soluções eficientes, escaláveis e automatizar fluxos de trabalho para otimizar resultados.
 
 ### 🛠️ Tecnologias e Ferramentas
 *   **Linguagens:** Python, Java
-*   **Automação e Integrações:** n8n, Make
 *   **Bancos de Dados & Ferramentas:** PostgreSQL, SQLite, Git, Docker
 
 ### 🚀 No que estou trabalhando
