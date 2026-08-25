@@ -50,7 +50,7 @@ Meu projeto principal hoje é um sistema financeiro e de prontuário digital rod
 | :--- | :--- | :--- |
 | **Sistema Financeiro — OdontoZ Kids** 🔒 | Sistema financeiro e prontuário digital em produção numa clínica odontológica. Controle de recebimentos, cobrança automática por WhatsApp e análises geradas com IA. | `Python` `Flask` `SQLite` |
 | **Assistente Virtual com IA** 🔒 | Agente de IA para atendimento ao cliente, com fluxos de conversa e integração a plataformas externas. | `IA` `Automação` |
-| **[Zoológico — POO em Java](https://github.com/AntonioPaulo1701/Trabalho-1)** | Modelagem de hierarquia de animais usando classe abstrata, herança e polimorfismo. | `Java` |
+| **[Zoológico — POO em Java](https://github.com/AntonioPaulo1701/poo-java-zoologico)** | Modelagem de hierarquia de animais usando classe abstrata, herança e polimorfismo. | `Java` |
 | **[Modelagem de Banco de Dados](https://github.com/AntonioPaulo1701/DBI-CEUB)** | Projetos de modelagem conceitual e lógica: normalização, relacionamentos e cardinalidades. | `Modelagem` `SQL` |
 
 > 🔒 = repositório privado por envolver dados de clientes reais. Posso apresentar o projeto em uma conversa.
